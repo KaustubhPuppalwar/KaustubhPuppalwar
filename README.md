@@ -11,4 +11,4 @@
     I am always looking for new opportunities to learn and grow, 
     and am excited to be a part of the vibrant developer community on GitHub.
     
-<img src="user.png">
+<img src="person_4_icon-icons.com_68900.png">
