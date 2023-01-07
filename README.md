@@ -10,5 +10,6 @@
     as well as playing sports and exploring the outdoors. 
     I am always looking for new opportunities to learn and grow, 
     and am excited to be a part of the vibrant developer community on GitHub.
+### I am learning Python.
     
 <img src="person_4_icon-icons.com_68900.png">
